@@ -1,4 +1,4 @@
-# one_piece_laugh_analyzer
+# One Piece Laugh Analyzer
 
 ## Overview
 
